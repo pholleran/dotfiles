@@ -1,3 +1,3 @@
 #!/usr/bin
 
-cp -rf .bash_profile ~/.bash_profile > /dev/null 2>&1
+cp -rf .bashrc ~/.bashrc > /dev/null 2>&1
